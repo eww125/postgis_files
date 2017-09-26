@@ -1,4 +1,4 @@
-login using psql
+Login using psql
 
 `psql -U postgres`
 
