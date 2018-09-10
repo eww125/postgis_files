@@ -1,6 +1,6 @@
 Login using psql
 
-`psql -U postgres`
+`sudo -u postgres psql`
 
 `CREATE DATABASE example_gis;`
 
